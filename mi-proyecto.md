@@ -6,5 +6,7 @@ Este es mi primer proyecto usando Git.
 - Aprendiendo Git paso a paso
 
 ## Última actualización
-Editado desde GitHub web interface
-## Informacion del proyecto Version desarrollada en rama main
+Editado desde GitHub web interfaceD
+
+## Información del proyecto 
+Version combinada de ambas ramas
